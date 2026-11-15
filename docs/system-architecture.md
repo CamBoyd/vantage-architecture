@@ -1,4 +1,5 @@
 
+```mermaid
 flowchart TD
     A["React / AG Grid UI"]
     B["Next.js Application"]
@@ -13,3 +14,4 @@ flowchart TD
     C --> E
     E <--> F
     D --> F
+```
