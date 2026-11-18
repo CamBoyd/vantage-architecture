@@ -56,6 +56,7 @@ This design aims to improve transaction traceability and reduce the need for man
 
 - [System Architecture](docs/system-architecture.md)
 - [Database Design](docs/database-design.md)
+- [Metadata Driven UI](https://github.com/CamBoyd/vantage-architecture/blob/main/docs/metadata-driven-ui.md)
 
 ## Project Status
 
